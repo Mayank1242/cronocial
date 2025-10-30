@@ -1,0 +1,27 @@
+{
+  "time": "2025-10-29T10:08:45.7521451Z",
+  "tenantId": "12a3af23-a769-4654-847f-958f3d479f4a",
+  "operationName": "Publish",
+  "category": "AdvancedHunting-EmailEvents",
+  "properties": {
+    "Timestamp": "2025-10-29T10:00:40Z",
+    "NetworkMessageId": "e233b9f9-0d72-4b38-602e-08de16d201f2",
+    "SenderFromAddress": "luc.bayiha1@cm.nestle.com",
+    "SenderDisplayName": "Bayiha, Luc, CM-Douala",
+    "RecipientDomain": "nestle.com",
+    "RecipientEmailAddress": "ndichafah.mumeh@cm.nestle.com",
+    "To": [
+      "\"Oyong, Victorien, CM-Douala\" <Victorien.Oyong@CM.nestle.com>",
+      "\"Neba Shu, Gilbert, CM-Douala\" <Gilbert.NebaShu@CM.nestle.com>",
+      "\"Mbahmuntah, Peri Mingo, CM-Douala\" <PeriMingo.Mbahmuntah@CM.nestle.com>"
+    ],
+    "Cc": [
+      "\"Onanena, Hyacinte Samson, CM-Douala\" <HyacinteSamson.Onanena@cm.nestle.com>",
+      "\"MAMBOUNDOU, Valerie, GA-Libreville\" <Valerie.Kuvikitila@ga.nestle.com>"
+    ],
+    "SHA256": "abcd1234ef5678909876543210abcd1234ef5678909876543210abcd1234",
+    "ThreatClassification": "Spam",
+    "EventType": "MailSubmission",
+    "ReportId": "e233b9f9-0d72-4b38-602e-08de16d201f2-123456"
+  }
+}
