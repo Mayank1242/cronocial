@@ -21,5 +21,6 @@
     "DetectionMethods": null,
     "ReportId": "c90b20f6-5689-490c-5915-08dde2fe6707-14353628911304527569-94be40afc43e03fd3e3b33ec38a5d84c2b92be2740a41d9e56e8d7b1355eea7e-1"
   },
-  "Tenant": "DefaultTenant"
+  "Tenant": "DefaultTenant",
+  "message": "Attachment email event processed successfully."
 }
